@@ -1,0 +1,8 @@
+python-dotenv
+ccxt
+pyrogram
+pandas
+numpy
+ta
+requests
+aiohttp
